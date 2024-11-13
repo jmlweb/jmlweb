@@ -34,6 +34,8 @@
         h1 {
           font-size: 48px;
           font-weight: 600;
+          text-align: center;
+          line-height: 1;
         }
 
         h1 a {
@@ -41,21 +43,20 @@
           text-decoration: none;
         }
 
-        h1 a .subline {
-          display: block;
-        }
-
         .items {
           display: flex;
           justify-content: center;
           align-items: center;
           flex-direction: column;
+          margin-top: 16px;
         }
 
         p {
           font-size: 34px;
           font-weight: 300;
           color: rgb(100, 116, 139);
+          text-align: center;
+          line-height: 1.2;
         }
 
         .say-hi {
@@ -102,17 +103,11 @@
         <div class='container'>
           <h1>
             <a href="https://github.com/nikolalsvk">
-              <span>
-                <span class="say-hi">👋🏻</span> Hi, I'm
-              </span>
-              <span class="subline">
-                José Manuel Lucas
-              </span>
+              <span class="say-hi">👋🏻</span> Hi, I'm José Manuel Lucas
             </a>
           </h1>
           <section class='items'>
-            <p>I build scalable and efficient</p>
-            <p>websites following best practices</p>
+            <p>I build scalable and efficient websites following best practices</p>
           </section>
         </div>
       </div>
