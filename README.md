@@ -1,8 +1,8 @@
 <a href="https://jmlweb.es" style="display: block; width: 100%;">
-  <img src="profile.svg" alt="Click to view profile" />
+  <img src="profile.svg" alt="Click to view profile" style="width: 100%" />
 </a>
 
-<table align="center">
+<table align="center" class="margin-top: 16px">
   <tr>
     <td>
 <a href="https://jmlweb.es/en" class="btn">
