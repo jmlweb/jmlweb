@@ -104,6 +104,20 @@
             transform: rotate(0) scale(1);
           }
         }
+
+        @media (prefers-color-scheme: dark) {
+          .body {
+            background-image: linear-gradient(rgb(15, 23, 42), rgb(2, 6, 23));
+          }
+
+          h1 a {
+            color: rgb(241, 245, 249);
+          }
+
+          p {
+            rgb(203, 213, 225);
+          }
+        }
       </style>
       <div class='body'>
         <div class='container'>
