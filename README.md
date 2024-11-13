@@ -2,34 +2,6 @@
 
 > I build scalable and efficient websites following best practices
 
-<style>
-  body {
-    color: #333;
-
-    @media(prefers-color-scheme: dark) {
-      color: #eee;
-    }
-  }
-
-  .btn-wrapper {
-    display: flex;
-    flex-wrap: wrap;
-    align-items: center;
-    margin-bottom: 20px;
-    gap: 16px;
-  }
-
-  .btn {
-    display: inline-flex;
-    align-items: center;
-    gap: 4px;
-    color: #333;
-    @media(prefers-color-scheme: dark) {
-      color: #eee;
-    }
-  }
-</style>
-
 <div class="btn-wrapper">
 <a href="https://jmlweb.es/en" class="btn">
     <img height="24" width="24" src="https://cdn.simpleicons.org/astro" /> Website
