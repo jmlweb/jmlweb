@@ -19,10 +19,5 @@
     <img height="24" width="24" src="https://cdn.simpleicons.org/linkedin" /> LinkedIn
   </a>
     </td>
-            <td>
-  <a href="https://x.com/jmlweb" class="btn" target="_blank">
-    <img height="24" width="24" src="https://cdn.simpleicons.org/x/333333/eeeeee" /> X / Twitter
-  </a>
-    </td>
   </tr>
 </table>
